@@ -15,7 +15,7 @@ export default function GoalsLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Your Goals',
+          title: 'HOME ',
           tabBarIcon: ({ focused }) => (
             <Ionicons 
               size={24} 
