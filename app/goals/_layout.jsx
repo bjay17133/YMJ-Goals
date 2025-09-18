@@ -28,7 +28,7 @@ export default function GoalsLayout() {
       <Tabs.Screen
         name="create"
         options={{
-          title: 'Create Goal',
+          title: 'ADD PET',
           tabBarIcon: ({ focused }) => (
             <Ionicons 
               size={24} 
